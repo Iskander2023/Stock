@@ -7,7 +7,7 @@
 git clone https://github.com/Iskander2023/Stock
 pip instal -r requirements.txt
 ```
-## TODO
+## Запуск
 * python manage.py migrate
 * запуск скрипта: python3 script.py
 
